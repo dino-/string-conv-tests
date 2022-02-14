@@ -1,0 +1,5 @@
+dist
+TAGS
+*.swp
+/.stack-work/
+stack.yaml.lock
