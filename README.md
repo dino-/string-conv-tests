@@ -3,7 +3,7 @@
 
 ## Synopsis
 
-Property tests for the string-conv library
+Property tests for the Haskell string-conv library
 
 
 ## Description
@@ -13,7 +13,8 @@ string-conv library is included in a project but also because these property
 tests use `quickcheck-instances` which defines many orphan instances. Never a
 good idea to force instances like this on other projects.
 
-This project expects the string-conv project to be in a sibling directory.
+This project expects the source code of the string-conv project to be in a
+sibling directory.
 
 
 ## Development
