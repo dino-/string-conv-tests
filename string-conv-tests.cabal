@@ -16,7 +16,7 @@ category:            Data, String, Text
 homepage:            https://github.com/dino-/string-conv-tests
 bug-reports:         https://github.com/dino-/string-conv-tests/issues
 build-type:          Simple
-cabal-version:       >=1.8
+cabal-version:       >=1.10
 extra-source-files:
   changelog.md
   .gitignore
